@@ -565,8 +565,8 @@ console.log(datakedua);
 console.log(dataketiga);
 ```
 
-Hasil
-![Outpul Tipe Data Null](https://i.ibb.co/qJcxtm8/Capture2.png) <br>
+Hasil <br>
+![Outpul Tipe Data Null](https://i.ibb.co/qJcxtm8/Capture2.png) <br> <br>
 
 5. **Undefined** : Tipe data undefined adalah tipe data yang merepresentasikan varibel/data yang tidak memiliki nilai.
 Undefined berbeda dengan null.<br>
