@@ -344,7 +344,7 @@ h1, p {
 
 <hr>
 
-# Algoritma dan JavaScript Dasar <br>
+# Algoritma <br>
 
 ### Objectives Learning
 
@@ -725,7 +725,7 @@ console.log(phi); //Uncaught TypeError: Assignment to constant variable.
 > 8 > 10 //menghasilkan false;
 > ```
 
-#### Logocal Operator
+#### Logical Operator
 
 > Logical operator biasa digunakan untuk sebuah CONDITIONAL pada pemograman.
 > Menghasilkan nilai BOOLEAN yaitu TRUE or FALSE.
