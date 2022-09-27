@@ -499,7 +499,7 @@ Confirm()
 
 ### Console Log
 
-> Console log adalah tempat kita untuk cek logic pemograman web yang kita kembangkan. Console log juga tempat kita untuk melakukan debugging (mengetahui error pada code) pada pemograman web
+> Console log adalah tempat kita untuk cek logic pemograman web yang kita kembangkan. Console log juga tempat kita untuk melakukan debugging (mengetahui error pada code) pada pemograman web. <br>
 > ![Console Log](https://media.geeksforgeeks.org/wp-content/uploads/6-50.png)
 
 ### Comments
