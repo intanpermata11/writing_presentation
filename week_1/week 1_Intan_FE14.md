@@ -640,7 +640,7 @@ myName = "Permatasari"
 console.log(myName); //output : Permatasari
 ```
 
-2. Const : Gunakan const jika variabel tidak dapat diubah nilainya.
+3. Const : Gunakan const jika variabel tidak dapat diubah nilainya.
    Biasanya digunakan untuk menggambarkan konstanta sebuah nilai. Seperti konstanta pi = 3.14.
 
 ```Javascript
