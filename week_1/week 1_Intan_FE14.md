@@ -566,11 +566,12 @@ console.log(dataketiga);
 ```
 
 Hasil
-![Outpul Tipe Data Null](https://i.ibb.co/qJcxtm8/Capture2.png) 5. **Undefined** : Tipe data undefined adalah tipe data yang merepresentasikan varibel/data yang tidak memiliki nilai.
+![Outpul Tipe Data Null](https://i.ibb.co/qJcxtm8/Capture2.png) <br>
+
+5. **Undefined** : Tipe data undefined adalah tipe data yang merepresentasikan varibel/data yang tidak memiliki nilai.
 Undefined berbeda dengan null.<br>
 
 Undefined didapat dari hasil berikut:<br>
-
 - Nilai dari pemanggilan variabel yang belum didefinisikan
 - Nilai dari pemanggilan element array yang tidak ada
 - Nilai dari pemanggilan property objek yang tidak ada
