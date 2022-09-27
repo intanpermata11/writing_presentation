@@ -426,7 +426,7 @@ Algoritma Deskriptif nya
 6. Apakah lampu berwarna merah?
 7. Jika ya, berhenti lalu ke no 9
 8. Jika tidak, lampu rusak lalu ke no 9
-9. selesai <br>
+9. selesai 
 ```
 
 Pseudo Code nya
