@@ -321,7 +321,6 @@ Event = kejadian/kegiatan/interaksi yang terjadi pada website.
    ```
 
 ### EventListener
-
 - Click
   ```html
   <input id="”user-input”" /> dan <button id="alert-button”">show</button>.
