@@ -1,4 +1,4 @@
-# Summary <br> Kelas Web Development Basic
+# Summary <br> Kelas Front-End Bootcamp
 
 <hr>
 
